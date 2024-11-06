@@ -1,5 +1,9 @@
 # Crypto Dashboard
 
+
+https://github.com/user-attachments/assets/3dedbb7f-bd0d-4073-959c-4204e8599b66
+
+
 This project is a crypto dashboard that provides real-time cryptocurrency information, including prices, percentage changes, and additional statistics across multiple platforms. Built with React for the frontend and Node.js for the backend, this project is optimized with features like dark mode, responsive design, and dynamic updates using APIs.
 
 ## Table of Contents
